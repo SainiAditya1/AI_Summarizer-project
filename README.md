@@ -1,1 +1,1 @@
-# AI_Summarizer-project
+# AI_Summarizer_Project
