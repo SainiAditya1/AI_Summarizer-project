@@ -1,8 +1,15 @@
 import React from 'react'
+import { logo } from '../assets';
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <header className = "w-full fles justify-center items-center flex-col">
+        <nav className="flex justify-between items-center flex-col">
+            <img src={logo} />
+        </nav>
+
+    </header>
+    
   )
 }
 
